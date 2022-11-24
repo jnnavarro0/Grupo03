@@ -26,6 +26,15 @@ footer {
   background-size: cover;
 }
 
+.imgInfo{
+  width: 40%;
+  height: 55%;
+}
+
+.parrafo{
+  text-align: justify;
+}
+
 .boton{
   background-color: rgb(255, 255, 255);
   color: #000;
